@@ -1,16 +1,9 @@
-# app
+# Teste de Fluência Verbal
 
-A new Flutter project.
+O aplicativo Teste de Fluência Verbal tem o propósito de auxiliar o usuário durante a execução do teste de fluência verbal, que consiste em solicitar à uma pessoa que responda em voz alta o maior número de palavras relacionadas à um determinado tópico. O app permite que o usuário registre cada teste com o nome da pessoa testada, o tópico e o tempo de duração. Durante a execução do teste, o áudio é gravado e o teste finaliza após o fim da contagem regressiva.
 
-## Getting Started
+## Imagens da aplicação
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Tela inicial | Criar teste | Executando |
+|------------|-------------|-------------|
+| ![Tela Inicial](assets/fonts/1.jpg)| ![Criar teste](assets/fonts/2.jpg) | ![Executando](assets/fonts/3.jpg) |
